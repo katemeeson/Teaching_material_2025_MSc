@@ -4,3 +4,9 @@
 - XML file for the yeast genome-scale model used in the 'Yeast_optimisation_tutorial.ipynb' tutorial
 ### 3. 'Helpsheet Kate Meeson 181224.pdf' 
 - Help sheet for constraint-based modelling, aimed at an audience with limited modelling background.
+### 4. 'iCHO2441.xml'
+- The most recent, comprehensive genome-scale model for Chinese Hamster Ovary cell (PMID: 36866411).
+### 5. 'CHOmpact_GEM_2023.xml'
+- A reduced, smaller scale metabolic model for the Chinese Hamster Ovary cell (PMID: 37272445).
+### 6. 'CHO_modelling.ipynb'
+- Tutorial for exploring the subsystem organisation of the Chinese hamster models, so that we can begin to access some reactions for the objective function.
